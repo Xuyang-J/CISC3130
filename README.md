@@ -1,2 +1,3 @@
 # Lab #1
-This program is written in Java and prints out "Hello Professor Chuang"
+Lab#1 is written in Java and prints out "Hello Professor Chuang"
+The purpose is to test out Github's various features.

@@ -1,0 +1,190 @@
+Ranking      Song Name                             Artists                                 Streams                         
+1            "WAP (feat. Megan Thee Stallion)"         "Cardi B"                          7066219                            
+2            Hawái                                     Maluma                             6104438                            
+3            "Mood (feat. Iann Dior)"                  24kGoldn                           5422309                            
+4            Dynamite                                  BTS                                4147725                            
+5            "Watermelon Sugar"                        "Harry Styles"                     4128788                            
+6            "Savage Love (Laxed - Siren Beat)"        "Jawsh 685"                        4111830                            
+7            "Blinding Lights"                         "The Weeknd"                       4103951                            
+8            "ROCKSTAR (feat. Roddy Ricch)"            DaBaby                             3802707                            
+9            "Laugh Now Cry Later (feat. Lil Durk)"    Drake                              3720073                            
+10           "Ice Cream (with Selena Gomez)"           BLACKPINK                          3064111                            
+11           "Roses - Imanbek Remix"                   "SAINt JHN"                        2819490                            
+12           "For The Night (feat. Lil Baby & DaBaby)" "Pop Smoke"                        2770514                            
+13           "Head & Heart (feat. MNEK)"               "Joel Corry"                       2725774                            
+14           "Breaking Me"                             Topic                              2704995                            
+16           "Mood Swings (feat. Lil Tjay)"            "Pop Smoke"                        2665672                            
+17           Heather                                   "Conan Gray"                       2612747                            
+18           "UN DIA (ONE DAY) (Feat. Tainy)"          "J Balvin"                         2414416                            
+19           Caramelo                                  Ozuna                              2399094                            
+20           "La Curiosidad"                           "Jay Wheeler"                      2348896                            
+21           "La Jeepeta - Remix"                      "Nio Garcia"                       2250647                            
+22           "Tattoo - Remix with Camilo"              "Rauw Alejandro"                   2244260                            
+23           "Dance Monkey"                            "Tones And I"                      2227998                            
+24           "POPSTAR (feat. Drake)"                   "DJ Khaled"                        2203568                            
+25           "Come & Go (with Marshmello)"             "Juice WRLD"                       2156576                            
+27           "Rain On Me (with Ariana Grande)"         "Lady Gaga"                        2078601                            
+28           Relación                                  Sech                               2059416                            
+29           "Midnight Sky"                            "Miley Cyrus"                      2001279                            
+31           "you broke me first"                      "Tate McRae"                       1916383                            
+32           "Smile (with The Weeknd)"                 "Juice WRLD"                       1884217                            
+33           "Someone You Loved"                       "Lewis Capaldi"                    1880896                            
+34           "Wishing Well"                            "Juice WRLD"                       1855580                            
+36           "death bed (coffee for your head)"        Powfu                              1830714                            
+37           "GREECE (feat. Drake)"                    "DJ Khaled"                        1815451                            
+38           "Before You Go"                           "Lewis Capaldi"                    1771648                            
+39           "Go Crazy"                                "Chris Brown"                      1763542                            
+40           "Don't Start Now"                         "Dua Lipa"                         1725157                            
+41           "Djadja (feat. Maluma) - Remix"           "Aya Nakamura"                     1700491                            
+42           "Blueberry Faygo"                         "Lil Mosey"                        1695159                            
+43           MAMACITA                                  "Black Eyed Peas"                  1645541                            
+44           "Break My Heart"                          "Dua Lipa"                         1626470                            
+45           "Relación - Remix"                        Sech                               1591415                            
+46           "How You Like That"                       BLACKPINK                          1586514                            
+47           "ily (i love you baby) (feat. Emilee)"    "Surf Mesa"                        1573050                            
+48           "Kings & Queens"                          "Ava Max"                          1568468                            
+49           "The Woo (feat. 50 Cent & Roddy Ricch)"   "Pop Smoke"                        1556307                            
+50           "Take You Dancing"                        "Jason Derulo"                     1523051                            
+51           "Toosie Slide"                            Drake                              1486094                            
+52           "Mamichula - con Nicki Nicole"            Trueno                             1480710                            
+53           "Stuck with U (with Justin Bieber)"       "Ariana Grande"                    1471598                            
+54           "Over Now (with The Weeknd)"              "Calvin Harris"                    1463340                            
+55           "Ayer Me Llamó Mi Ex (feat. Lenny Santos)"KHEA                               1410366                            
+56           "Party Girl"                              StaySolidRocky                     1374491                            
+57           "The Box"                                 "Roddy Ricch"                      1374380                            
+58           Circles                                   "Post Malone"                      1370212                            
+59           "Still Don't Know My Name"                Labrinth                           1358728                            
+60           "Mi Cuarto"                               "Jerry Di"                         1340281                            
+61           Tusa                                      "KAROL G"                          1323519                            
+62           "Adore You"                               "Harry Styles"                     1308390                            
+63           goosebumps                                "Travis Scott"                     1284847                            
+64           Señorita                                  "Shawn Mendes"                     1264770                            
+65           "Hit Different"                           SZA                                1262062                            
+66           "Lucid Dreams"                            "Juice WRLD"                       1225732                            
+67           "Sunflower - Spider-Man: Into the Spider-Verse""Post Malone"                      1218271                            
+68           Memories                                  "Maroon 5"                         1214110                            
+69           "my ex's best friend (with blackbear)"    "Machine Gun Kelly"                1213002                            
+70           Falling                                   "Trevor Daniel"                    1208784                            
+72           "Electric Love"                           BØRNS                              1172502                            
+73           "In Your Eyes"                            "The Weeknd"                       1157819                            
+74           "Oh Juliana"                              Niack                              1155536                            
+75           "Del Mar"                                 Ozuna                              1155421                            
+76           Robbery                                   "Juice WRLD"                       1154000                            
+77           "bad guy"                                 "Billie Eilish"                    1149774                            
+78           "Say So"                                  "Doja Cat"                         1146889                            
+79           "HIGHEST IN THE ROOM"                     "Travis Scott"                     1139877                            
+80           "Hasta Que Dios Diga"                     "Anuel AA"                         1137243                            
+81           "TKN (feat. Travis Scott)"                ROSALÍA                            1132726                            
+82           "Caramelo - Remix"                        Ozuna                              1115686                            
+83           "Lithuania (feat. Travis Scott)"          "Big Sean"                         1096201                            
+84           "Be Kind (with Halsey)"                   Marshmello                         1083621                            
+85           Dior                                      "Pop Smoke"                        1078806                            
+86           "Ride It"                                 Regard                             1073032                            
+88           "Intentions (feat. Quavo)"                "Justin Bieber"                    1066116                            
+89           Favorito                                  Camilo                             1060832                            
+90           "Stunnin' (feat. Harm Franklin)"          "Curtis Waters"                    1055069                            
+91           ROXANNE                                   "Arizona Zervas"                   1049234                            
+92           Shallow                                   "Lady Gaga"                        1048098                            
+93           "SICKO MODE"                              "Travis Scott"                     1047518                            
+94           cardigan                                  "Taylor Swift"                     1044326                            
+95           Azul                                      "J Balvin"                         1044090                            
+96           Secrets                                   Regard                             1027770                            
+97           "Bande organisée"                         Jul                                1024939                            
+98           "Life Is Good (feat. Drake)"              Future                             1013221                            
+99           "my future"                               "Billie Eilish"                    1007709                            
+100          "lovely (with Khalid)"                    "Billie Eilish"                    998881                             
+101          "Got It On Me"                            "Pop Smoke"                        981858                             
+102          "Wolves (feat. Post Malone)"              "Big Sean"                         973751                             
+103          "THE SCOTTS"                              "THE SCOTTS"                       972816                             
+104          "Sunday Best"                             Surfaces                           971879                             
+105          "Be Like That - feat. Swae Lee & Khalid"  "Kane Brown"                       969540                             
+106          Believer                                  "Imagine Dragons"                  968673                             
+107          GOOBA                                     6ix9ine                            955829                             
+108          Supalonely                                BENEE                              951081                             
+109          Rojo                                      "J Balvin"                         950183                             
+110          "Tap In"                                  Saweetie                           937783                             
+111          "Yo Perreo Sola"                          "Bad Bunny"                        935210                             
+112          "Investe Em Mim"                          "Jonas Esticado"                   933570                             
+113          "Elegí (feat. Dímelo Flow)"               "Rauw Alejandro"                   926784                             
+114          "Parce (feat. Justin Quiles)"             Maluma                             917120                             
+115          "If the World Was Ending - feat. Julia Michaels""JP Saxe"                          913604                             
+116          "Tak Tiki Tak"                            "Harry Nach"                       906936                             
+117          "Bohemian Rhapsody - 2011 Mix"            Queen                              905985                             
+118          "Lets Link"                               WhoHeem                            901863                             
+119          "everything i wanted"                     "Billie Eilish"                    896014                             
+120          "Blastoff (feat. Juice Wrld & Trippie Redd)""Internet Money"                   885347                             
+121          "Fuckst mich nur ab"                      "Bonez MC"                         879772                             
+122          Falling                                   "Harry Styles"                     870732                             
+123          "I Don't Care (with Justin Bieber)"       "Ed Sheeran"                       870120                             
+124          Safaera                                   "Bad Bunny"                        869428                             
+125          "After Party"                             "Don Toliver"                      856389                             
+126          "feel something"                          "Bea Miller"                       847832                             
+127          "CÓMO SE SIENTE - Remix"                  "Jhay Cortez"                      843607                             
+128          "Godzilla (feat. Juice WRLD)"             Eminem                             838147                             
+129          "Mad at Disney"                           "salem ilese"                      837927                             
+130          "rockstar (feat. 21 Savage)"              "Post Malone"                      837191                             
+131          "Shape of You"                            "Ed Sheeran"                       836317                             
+132          "hot girl bummer"                         blackbear                          832122                             
+133          "Play Date"                               "Melanie Martinez"                 826528                             
+134          "Desce Pro Play (PA PA PA)"               "Mc Zaac"                          825303                             
+135          "Savage Remix (feat. Beyoncé)"            "Megan Thee Stallion"              825053                             
+136          Jeans                                     "Justin Quiles"                    824698                             
+137          Madrid                                    Maluma                             821018                             
+138          "7 rings"                                 "Ariana Grande"                    818669                             
+139          "All Girls Are The Same"                  "Juice WRLD"                       809664                             
+140          "Jocelyn Flores"                          XXXTENTACION                       807747                             
+141          "WHATS POPPIN"                            "Jack Harlow"                      806130                             
+142          Perfect                                   "Ed Sheeran"                       803178                             
+143          "Lose Control"                            MEDUZA                             797628                             
+144          "exile (feat. Bon Iver)"                  "Taylor Swift"                     796324                             
+145          "Chicago Freestyle (feat. Giveon)"        Drake                              793567                             
+147          "El Mismo Aire - con Pablo Alborán"       Camilo                             785089                             
+148          "Lose Somebody"                           Kygo                               779761                             
+149          SAD!                                      XXXTENTACION                       779143                             
+150          "Are You Bored Yet? (feat. Clairo)"       Wallows                            777185                             
+151          "Money Trees"                             "Kendrick Lamar"                   776488                             
+152          "Say You Won't Let Go"                    "James Arthur"                     775435                             
+153          "Quiéreme Mientras Se Pueda"              "Manuel Turizo"                    771573                             
+154          "Nobody's Love"                           "Maroon 5"                         764740                             
+155          Alane                                     "Robin Schulz"                     761952                             
+156          "Some Say - Felix Jaehn Remix"            Nea                                761362                             
+158          Righteous                                 "Juice WRLD"                       760305                             
+159          Jangueo                                   "Alex Rose"                        756501                             
+160          "No Guidance (feat. Drake)"               "Chris Brown"                      754974                             
+161          "DOLLAZ ON MY HEAD (feat. Young Thug)"    Gunna                              753874                             
+162          "Beautiful People (feat. Khalid)"         "Ed Sheeran"                       752292                             
+163          Conversations                             "Juice WRLD"                       745988                             
+164          ADMV                                      Maluma                             742019                             
+165          "RITMO (Bad Boys For Life)"               "Black Eyed Peas"                  741172                             
+166          "What's Love Got to Do with It"           Kygo                               739544                             
+167          "Jerusalema (feat. Nomcebo Zikode)"       "Master KG"                        739030                             
+168          "Don't Stop Me Now - 2011 Mix"            Queen                              736817                             
+169          Physical                                  "Dua Lipa"                         736185                             
+170          "Not Shy"                                 ITZY                               735131                             
+171          "When I Look At You"                      "Miley Cyrus"                      734540                             
+172          "Don't Stop Believin'"                    Journey                            730224                             
+173          21                                        "Polo G"                           726251                             
+174          "La Tóxica"                               Farruko                            724554                             
+175          Happier                                   Marshmello                         722876                             
+176          "Someone To You"                          BANNERS                            720068                             
+177          "Enemigos Ocultos"                        Ozuna                              719479                             
+179          "Boss Bitch"                              "Doja Cat"                         715198                             
+180          "All of Me"                               "John Legend"                      712991                             
+181          "GO (feat. Juice WRLD)"                   "The Kid LAROI"                    712735                             
+182          "Something Just Like This"                "The Chainsmokers"                 709424                             
+183          Unterwegs                                 KitschKrieg                        705396                             
+185          "when the party's over"                   "Billie Eilish"                    701664                             
+186          +Linda                                    Dalex                              700153                             
+187          "Martin & Gina"                           "Polo G"                           699454                             
+189          Despeinada                                Ozuna                              695917                             
+190          Anaranjado                                "Jowell & Randy"                   694437                             
+191          Reggaetonera                              "Anuel AA"                         692537                             
+192          "Mr. Brightside"                          "The Killers"                      688096                             
+193          "The Less I Know The Better"              "Tame Impala"                      686979                             
+194          "THE BADDEST"                             K/DA                               686690                             
+195          Africa                                    TOTO                               683641                             
+196          "7 Summers"                               "Morgan Wallen"                    680212                             
+197          "Without Me"                              Halsey                             680073                             
+198          "Dembow 2020"                             Yandel                             679600                             
+199          Moonlight                                 XXXTENTACION                       678867                             
+200          "Pa' Olvidarme De Ella"                   "Piso 21"                          676076                             

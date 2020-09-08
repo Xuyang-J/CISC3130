@@ -7,7 +7,7 @@ public class Main {
 
     }
     public static void splitInput() throws FileNotFoundException { // main code 
-        PrintStream output = new PrintStream("output.txt");// PrintStream setup for outputting to a file.
+        PrintStream output = new PrintStream("Artists-WeekOf09082020.txt");// PrintStream setup for outputting to a file.
         String[][] list = new String[189][7]; // initializing the nested array that will be used to store the data
         File file = new File("streams.csv");// file setup for scanner to read in
         Scanner sc = new Scanner(file); // scanner setup

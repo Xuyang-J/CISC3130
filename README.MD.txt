@@ -11,3 +11,5 @@ Building on top of the code from Lab#2, an extra array was added as to remove th
 an easier time comparing. Then an array is used to sort(bubble sort) the names of the artists in alphabetical order, which is then transferred over to a linked list and outputted to an output file. 
 
 As a result, anyone who reads the report will be able to clearly identify the name of artist of the hits in alphabetical order.
+The source code can be compiled into any IDE or compiler, with an input CSV file formatted like a SPOTIFY TOP 200 List.
+

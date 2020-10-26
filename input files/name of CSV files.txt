@@ -1,0 +1,12 @@
+regional-global-weekly-2020-07-31--2020-08-07.csv
+regional-global-weekly-2020-08-07--2020-08-14.csv
+regional-global-weekly-2020-08-14--2020-08-21.csv
+regional-global-weekly-2020-08-21--2020-08-28.csv
+regional-global-weekly-2020-08-28--2020-09-04.csv
+regional-global-weekly-2020-09-04--2020-09-11.csv
+regional-global-weekly-2020-09-11--2020-09-18.csv
+regional-global-weekly-2020-09-18--2020-09-25.csv
+regional-global-weekly-2020-09-25--2020-10-02.csv
+regional-global-weekly-2020-10-02--2020-10-09.csv
+regional-global-weekly-2020-10-09--2020-10-16.csv
+regional-global-weekly-latest.csv

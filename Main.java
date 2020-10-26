@@ -3,18 +3,56 @@ import java.io.*;
 public class Main {
 
     public static void main(String[] args) throws FileNotFoundException { // main method used to execute other methods
-        splitInput();
-
+        PrintStream output = new PrintStream("Song-List-Of-Fiscal-Quarter-2020.txt"); // PrintStream used to output to a file
+        String[][] list = new String[200][7]; // 2D array used to store split inputs
+        String[] bigList = new String[1200];
+        String[] files = new String[12]; // string array that will store the name of the input CSV files
+        fileNames(files);//method that stores name of CSV input files into files String array
+        for(int i = 0; i < 12; i++) { // this loop fills the big array with all the songs from all the input files
+            unsortedList(bigList, splitInput(i, files, list), i);
+        }
+        bigList = alphabeticalSort(bigList);
+        String[] stackString = trackHistory(1200,songQueue(bigList)).toArray(); // string array that stores tracks stored in stack
+        for(int j = 0; j < 1200; j++) {
+            output.println(stackString[j]);
+        }
     }
 
-    public static void splitInput() throws FileNotFoundException { // takes input from csv file and split it into 2D array
-                                                                        // which is then printed out in a formatted manner
-        PrintStream output = new PrintStream("Artists-WeekOf10-01-2020.txt"); // PrintStream used to output to a file
-        String[][] list = new String[199][6]; // 2D array used to store split inputs
-        File file = new File("input.csv"); // path to input file
+    public static Stack trackHistory(int size, Queue queue) { // moves track from queue to stack
+        Stack s = new Stack(1200);
+        for(int i = 0; i < size; i++) {
+            s.push(queue.peek());
+            queue.remove();
+        }
+        return s;
+    }
+
+    public static Queue songQueue(String[] bigList) {
+        Queue queue = new Queue(1200);
+        for(int i = 0; i < bigList.length; i++) {
+            queue.insert(bigList[i]);
+        }
+        return queue;
+    }
+
+    public static void unsortedList(String[] bigList, String[] list, int inputNum) { // method that take data from string arrays that read from singular csv files
+        int n = (inputNum)* 200;
+        while(n < 1200) {
+            for (String s : list) {
+                bigList[n] = s;
+                n++;
+            }
+        }
+    }
+
+
+    public static String[] splitInput(int inputNum, String[] files, String[][] list) throws FileNotFoundException { // takes input from csv files and split it into 2D array
+                                                                        // which is then printed out to a file in a formatted manner
+        File file = new File(files[inputNum]); // path to input file
         Scanner sc = new Scanner(file);
         String temp;
         String[] tempArr;
+        String[] list2 = new String[200];
         int i = 0;
         while (sc.hasNextLine()) { // while loop to read in data from input and store it in 2D array
             temp = sc.nextLine();
@@ -22,18 +60,17 @@ public class Main {
             System.arraycopy(tempArr, 0, list[i], 0, tempArr.length);
             i++;
         }
-        Iterator it = alphabeticalSort(list).iterator(); //iterator object that iterates through the Linked List to output
-        int num = 0;
-        while (it.hasNext()) {
-            output.printf("%-10s%s%n", num + 1, it.next());
-            num++;
+        for(int j = 0; j < list2.length; j++) {
+            list2[j] = list[j][1];
         }
+
+        return list2;
     }
 
-    public static LinkedList alphabeticalSort(String[][] a) { // Sorting the artist name from A-Z and feeding it to a linked list
-        String[] arr = new String[199];
+    public static String[] alphabeticalSort(String[] a) { // Sorting the artist name from A-Z
+        String[] arr = new String[1200];
         for (int i = 0; i < a.length; i++) {
-            arr[i] = a[i][2].replace('"', ' '); // Replaces the quotation marks that is present in some artist names
+            arr[i] = a[i].replace('"', ' '); // Replaces the quotation marks that is present in some artist names
             arr[i] = arr[i].trim(); // trims the spaces that replaces the quotation marks
         }
         String temp;
@@ -46,6 +83,14 @@ public class Main {
                 }
             }
         }
-        return new LinkedList(Arrays.asList(arr));
+        return arr;
+    }
+
+    public static void fileNames(String[] fileName) throws FileNotFoundException { // method reads from file containing all CSV file names and returns
+        File file = new File("name of CSV files.txt");                     // String array containing the names
+        Scanner sc = new Scanner(file);
+        for(int i = 0; i < 12; i++) {
+            fileName[i] = sc.next();
+        }
     }
 }

@@ -1,0 +1,5 @@
+Practice Problem Grade: 44
+Lab Grade: 16
+Midterm Grade: 190
+Final Exam Grade: 90
+Final Grade on Transcript: 97.00
